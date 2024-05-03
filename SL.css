@@ -75,3 +75,19 @@ font-style: normal;
 	    font-variant: small-caps;
     letter-spacing: 0.1px;
 }
+
+@media (max-width: 480px) {
+ .content {
+    width: 100%;
+	padding-top: 20px;
+    padding-left: 30px;
+	margin-right: 20px;
+	padding-bottom: 60px;
+  }  
+	
+  [class*="title"] {
+    font-size: 31px;
+    font-family: "rialto-piccolo-df", serif;
+}
+
+	}
