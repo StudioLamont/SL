@@ -31,7 +31,7 @@ a {
 
 
 .maintext {
-	font-size: 26px;
+	font-size: 1.625em;
     color: white;
     font-family: "rialto-piccolo-df", serif;
 font-weight: 400;
@@ -40,7 +40,7 @@ font-style: normal;
     -webkit-font-feature-settings: 'liga', 'calt', 'onum';
     -moz-font-feature-settings: 'liga', 'calt', 'onum';
     -ms-font-feature-settings: 'liga', 'calt', 'onum';
-    line-height: 32px;
+    line-height: 1.25em;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
 }
@@ -50,7 +50,7 @@ font-style: normal;
 }
 
 .title {
-    font-size: 32.2px;
+    font-size: 2.016em;
     color: white;
     font-family: "rialto-grande-df", serif;
     font-weight: 400;
@@ -59,7 +59,7 @@ font-style: normal;
     -webkit-font-feature-settings: 'liga', 'calt', 'onum';
     -moz-font-feature-settings: 'liga', 'calt', 'onum';
     -ms-font-feature-settings: 'liga', 'calt', 'onum';
-    line-height: 20px;
+    line-height: 0.6em;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
 }
