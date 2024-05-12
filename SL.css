@@ -23,9 +23,13 @@
 
 a {
   color: inherit;
-  text-decoration: none;
+  text-decoration: underline #FF5A5A 1px dotted;
+	text-underline-offset: 4px;
   font-style: none;
 }
+
+
+
 .maintext {
 	font-size: 26px;
     color: white;
