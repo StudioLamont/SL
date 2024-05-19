@@ -24,10 +24,12 @@
 a {
   color: inherit;
   text-decoration: underline #FF5A5A 1px dotted;
-  -webkit-text-decoration: #FF5A5A 1px dotted;
-  text-underline-offset: 4px;
-  -webkit-text-underline-offset: 4px;
+ text-underline-offset: 4px;
   font-style: none;
+	-webkit-text-decoration-line: underline;
+   text-decoration-thickness: 1px;
+	-webkit-text-decoration-color: #FF5A5A;
+	-webkit-text-decoration-style: dotted;	
 
 }
 
