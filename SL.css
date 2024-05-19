@@ -28,8 +28,7 @@ a {
   font-style: none;
 		-webkit-text-decoration-line: underline;
 	-webkit-text-decoration-color: #FF5A5A;
-	-webkit-text-decoration-style: dotted;
-	-webkit-text-decoration-weight: 1px;
+	-webkit-text-decoration-style: 1px dotted;
 
 }
 
