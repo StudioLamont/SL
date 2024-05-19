@@ -26,6 +26,11 @@ a {
   text-decoration: underline #FF5A5A 1px dotted;
 	text-underline-offset: 4px;
   font-style: none;
+		-webkit-text-decoration-line: underline;
+	-webkit-text-decoration-color: #FF5A5A;
+	-webkit-text-decoration-style: dotted;
+	-webkit-text-decoration-weight: 1px;
+
 }
 
 
