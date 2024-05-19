@@ -92,3 +92,24 @@ font-style: normal;
 }
 
 
+
+
+
+@media (max-width: 480px ) {
+	
+	.content {
+    min-width: 0px;
+	padding-top: 25px;
+    padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 60px;
+  }  
+	
+  [class*="title"] {
+    font-family: "rialto-piccolo-df", serif;
+	  
+}
+
+	}
+
+
