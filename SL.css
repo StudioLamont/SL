@@ -107,9 +107,11 @@ font-style: normal;
 	
   [class*="title"] {
     font-family: "rialto-piccolo-df", serif;
-	  
+	  	font-size: 180%; 
 }
 
+	.maintext {
+	font-size: 160%; 
+
+}
 	}
-
-
