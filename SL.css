@@ -116,3 +116,24 @@ font-style: normal;
 }
 	}
 
+@media screen and (-webkit-max-width: 480px) {
+	
+	.content {
+    min-width: 80vw;
+	max-width: 100vw;
+	padding-top: 6%;
+    padding-left: 7%;
+	padding-right: 7%;
+	padding-bottom: 10%;
+  }  
+	
+    .title {
+    font-family: "rialto-piccolo-df", serif;
+	font-size: 175%; 
+}
+
+	.maintext {
+	font-size: 155%; 
+
+}
+	}
