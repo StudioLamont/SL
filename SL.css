@@ -95,19 +95,19 @@ font-style: normal;
 
 
 
-@media (max-width: 480px ) {
+@media screen and (max-width: 480px) {
 	
 	.content {
-    min-width: 0px;
-	padding-top: 25px;
-    padding-left: 30px;
-	padding-right: 30px;
-	padding-bottom: 60px;
+    min-width: 80%;
+	padding-top: 6%;
+    padding-left: 7%;
+	padding-right: 7%;
+	padding-bottom: 10%;
   }  
 	
-  [class*="title"] {
+    .title {
     font-family: "rialto-piccolo-df", serif;
-	  	font-size: 180%; 
+	font-size: 180%; 
 }
 
 	.maintext {
