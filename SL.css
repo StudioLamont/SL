@@ -97,6 +97,17 @@ font-style: normal;
 
 @media screen and (max-width: 480px) {
 	
+	.background {
+	height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    background: #080D15;
+    margin: 0;
+    padding: 0;
+}
+	
 	.content {
     min-width: 80%;
 	padding-top: 6%;
@@ -107,11 +118,12 @@ font-style: normal;
 	
     .title {
     font-family: "rialto-piccolo-df", serif;
-	font-size: 180%; 
+	font-size: 175%; 
 }
 
 	.maintext {
-	font-size: 160%; 
+	font-size: 155%; 
 
 }
 	}
+
